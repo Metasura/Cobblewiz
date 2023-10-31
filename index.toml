@@ -11,6 +11,16 @@ hash = "ff786550ebc945232c072bd3011919ab9fef52baf819705309d67c961332b604"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "58f9b55c0998e0df2eaeea259e1bd181a3c4eb93f32824bdac565cec66f94880"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7213c1f85dede9a36f77d4a0064a1c6aae79bcb4e281ae5d6d8698793ddda046"
 metafile = true
@@ -86,13 +96,18 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/iam-music-player.pw.toml"
+hash = "e45ea77020ab11df29a4534987d1cd0502cb551c947698a0e74664dd7f07f8c1"
+metafile = true
+
+[[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "df63cbda65673b9957ad8144e45b16f6b2bdf84978be52f476106267eced6e14"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
@@ -151,6 +166,11 @@ hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
+metafile = true
+
+[[files]]
 file = "mods/origins-plus-plus.pw.toml"
 hash = "569840d3fe74fe9d4b093fb456b8a9f4d167eabee8b155b1e08bbce71ecb6285"
 metafile = true
@@ -158,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine.pw.toml"
+hash = "36c437c28626eb8771bc414133072894e2451245b1ba1c6411716b08dc077e5f"
 metafile = true
 
 [[files]]
@@ -187,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
