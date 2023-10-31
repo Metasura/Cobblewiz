@@ -11,6 +11,11 @@ hash = "ff786550ebc945232c072bd3011919ab9fef52baf819705309d67c961332b604"
 metafile = true
 
 [[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "27bee2dec0693db30bc4a8981d1409d7075f1515ea379f70f3c897a76ec49970"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "58f9b55c0998e0df2eaeea259e1bd181a3c4eb93f32824bdac565cec66f94880"
 metafile = true
@@ -71,6 +76,11 @@ hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "994b81e8389f97f3cad1f1e6aceb833aeae5db46708cc3098363370345871be1"
 metafile = true
@@ -86,8 +96,53 @@ hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims-extensions.pw.toml"
+hash = "2b99301c49ba6acbcb66bfdd5242f6b32e3d834cafafff8bd2030dd5f477c2f1"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "93ed5e4493f07f0a9eaaecf2642b897fcc5af6e9644f83a75f30b7a060f5717c"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "61d4f489d43922fb32e1868ddce2129ecfaddb40e42029908d41142057a28f89"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "6395441f751bc9aca4cd024df876b9f7abbfc53d8911f5264c5c36eabbb21c82"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "d64c3830b8fada9c5d5df21978d6d023d40364350d51210c47d1514effa2a178"
 metafile = true
 
 [[files]]
@@ -148,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
@@ -231,6 +291,11 @@ hash = "71a584ee7d09de1685259a9d35bf4917901bdf88800a73cf0cf246ecc415626b"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
 metafile = true
@@ -258,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "b3a3bf0f0ef9a919323d91b890ce79e59a53f60458bf5285b4d46e5692b17ebf"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
